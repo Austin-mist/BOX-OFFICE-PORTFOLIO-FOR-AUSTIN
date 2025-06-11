@@ -46,7 +46,7 @@ This project analyzes the UK box office performance for the weekend of 30 May–
 
 | Visual | Description |
 |--------|-------------|
-| ![Top 5 Bar Chart](visuals/top5_bar_chart.png) | Top 5 Grossing Films |
+| ![Top 5 Bar Chart](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(10).png) | Top 5 Grossing Films |
 | ![Country Pie Chart](visuals/country_pie_chart.png) | Films by Country of Origin |
 | ![Funnel](visuals/film_funnel.png) | Film Count by Gross Thresholds |
 | ![Scatter Plot](visuals/cinemas_vs_gross_scatter.png) | Cinemas vs. Weekend Gross |
