@@ -1,4 +1,4 @@
-# UK Box Office Portfolio Project: 30 May–1 June 2025
+# (UK Box Office Portfolio Project: 30 May–1 June 2025)(https://.com/PlayingNumbers/ds_salary_proj)
 
 This repository contains a complete data analysis portfolio for the BFI Weekend Box Office report (30 May–1 June 2025), featuring data cleaning in Excel and visualization in Power BI.
 
