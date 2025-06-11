@@ -6,12 +6,12 @@ This repository contains a complete data analysis portfolio for the BFI Weekend 
 
 ## 📁 Contents
 
-- **/data/**  
+- **data**  
   Cleaned Excel dataset:  
   `bfi-weekend-box-office-report-2025-05-30-06-01-2.xlsx`
-- **/visuals/**  
+- **visuals**  
   Screenshots of Power BI visuals (bar chart, pie chart, funnel, scatter plot, etc.)
-- **/docs/**  
+- **docs**  
   Portfolio summary (PDF/Word), methodology notes, and this README
 - **box_office_dashboard.pbix**  
   Power BI dashboard file
@@ -76,7 +76,7 @@ This project analyzes the UK box office performance for the weekend of 30 May–
 ##  Author
 
 **[AUSTIN MOFOKENG MATLEPE]**  
-[Your GitHub profile or contact email]
+[4306241@myuwc.ac.za]
 
 ---
 
