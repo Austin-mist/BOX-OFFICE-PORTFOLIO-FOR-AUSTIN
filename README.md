@@ -6,12 +6,12 @@ This repository contains a complete data analysis portfolio for the BFI Weekend 
 
 ## 📁 Contents
 
-- **data**  
+- **Data**  
   Cleaned Excel dataset:  
   `bfi-weekend-box-office-report-2025-05-30-06-01-2.xlsx`
-- **visuals**  
+- **Visuals**  
   Screenshots of Power BI visuals (bar chart, pie chart, funnel, scatter plot, etc.)
-- **docs**  
+- **Docs**  
   Portfolio summary (PDF/Word), methodology notes, and this README
 - **box_office_dashboard.pbix**  
   Power BI dashboard file
