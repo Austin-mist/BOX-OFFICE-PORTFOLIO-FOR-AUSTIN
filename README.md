@@ -45,11 +45,11 @@ This project analyzes the UK box office performance for the weekend of 30 May–
 ## 🖼️ Sample Visuals
 
 | Visual | Description |
-|--------|-------------|
-| ![Top 5 Bar Chart](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(10).png) | Top 5 Grossing Films |
-| ![Country Pie Chart](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(11).png) | Films by Country of Origin |
-| ![Funnel](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(14).png) | Film Count by Gross Thresholds |
-| ![Scatter Plot](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(12).png) | Cinemas vs. Weekend Gross |
+
+ [Top 5 Bar Chart](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(10).png) | Top 5 Grossing Films |
+ [Country Pie Chart](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(11).png) | Films by Country of Origin |
+ [Funnel](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(14).png) | Film Count by Gross Thresholds |
+ [Scatter Plot](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/Screenshot%20(12).png) | Cinemas vs. Weekend Gross |
 
 ---
 
