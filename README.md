@@ -56,11 +56,11 @@ This project analyzes the UK box office performance for the weekend of 30 May–
 ## 🚀 How to Use
 
 1. **Explore the data:**  
-   Open the Excel file in https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/box%20officeE.xlsx to review the cleaned dataset.
+   [Open the Excel file in](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/box%20officeE.xlsx) to review the cleaned dataset.
 2. **View the dashboard:**  
-   Open https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/DATA%20VISUALS.pbix` in Power BI Desktop to interact with the visuals.
+   [Open](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/DATA%20VISUALS.pbix`) in Power BI Desktop to interact with the visuals.
 3. **Read the summary:**  
-   Open the Word portfolio in https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/WORD%20PORTFOLIO%20FOR%20AUSTIN.docx for methodology, insights, and recommendations.
+   [Open the Word portfolio in](https://github.com/Austin-mist/BOX-OFFICE-PORTFOLIO-FOR-AUSTIN/blob/main/WORD%20PORTFOLIO%20FOR%20AUSTIN.docx) for methodology, insights, and recommendations.
 
 ---
 
